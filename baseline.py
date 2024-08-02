@@ -6,6 +6,8 @@ import numpy as np
 import os
 import sys
 # 숮
+# pycharm
+
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 from time import time
