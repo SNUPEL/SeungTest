@@ -7,6 +7,7 @@ import os
 import sys
 # 숮
 # pycharm
+# test2
 
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
